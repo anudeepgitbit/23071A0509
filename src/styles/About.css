@@ -1,0 +1,41 @@
+.about-container {
+  padding: 2rem 0;
+}
+
+.about-container h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #343a40;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+}
+
+.about-content h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #343a40;
+  border-bottom: 2px solid #f8f9fa;
+  padding-bottom: 0.5rem;
+}
+
+.about-content ul {
+  margin-bottom: 2rem;
+  padding-left: 1.5rem;
+}
+
+.about-content li {
+  margin-bottom: 0.5rem;
+}
